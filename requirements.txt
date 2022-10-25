@@ -1,0 +1,3 @@
+PIL
+streamlit
+plotly.graph_objects
